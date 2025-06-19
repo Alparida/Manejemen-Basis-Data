@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "68253998582570da5684e2a5"
+  },
+  "kode_produk": "PRD002",
+  "nama": "Smartphone Samsung Galaxy S24",
+  "kategori": "Smartphone",
+  "merek": "Samsung",
+  "stok": 25,
+  "harga": 12000000,
+  "deskripsi": "Smartphone flagship terbaru dengan kamera canggih dan performa tinggi"
+}]
